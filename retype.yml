@@ -3,9 +3,9 @@ output: .retype
 url: omer-baron.github.io # Add your website address here
 branding:
   title: Baron
-  label: Docs
+  label: Family Site
 links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
+  - text: Hello
+    link: omer-baron.github.io
 footer:
   copyright: "&copy; Copyright . All rights reserved."

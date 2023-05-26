@@ -1,36 +1,35 @@
 # Baron
 
 Baron is a family website.
-## Installation
+## Info
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Here is a link [pip](https://pip.pypa.io/en/stable/).
 
 ```bash
-pip install foobar
+link
 ```
 
-## Usage
 
-```python
-import foobar
+Both [internal](README.md) and [external](https://example.com) links work.
 
-# returns 'words'
-foobar.pluralize('word')
+![Your logo](logo.png)
 
-# returns 'geese'
-foobar.pluralize('goose')
+Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+---
 
-## Contributing
+## Lists
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+- First item
+- Second item
+- Third item
 
-Please make sure to update tests as appropriate.
+1. First item
+2. Second item
+3. Third item
 
-## License
+> "Cool! This is a quotation."
 
-[MIT](https://choosealicense.com/licenses/mit/)
+!!!
+Need to draw attention to something? Use an alert.
+!!!
